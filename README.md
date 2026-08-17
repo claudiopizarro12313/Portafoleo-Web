@@ -1,38 +1,38 @@
-# 💻 Portafolio Web - Claudio Pizarro
+# 💻 Web Portfolio - Claudio Pizarro
 
-¡Bienvenido/a  a mi portafolio web personal! Este repositorio contiene el código fuente de mi sitio web profesional, desarrollado para presentar mis proyectos, habilidades técnicas y trayectoria como Analista Programador.
+Welcome to my personal web portfolio! This repository contains the source code for my professional website, designed to showcase my projects, technical skills, and background as a Systems Analyst and Programmer.
 
-🌐 **Ver sitio web en vivo:** [https://claudiopizarro12313.github.io](https://claudiopizarro12313.github.io)
-
----
-
-## 🚀 Sobre el Proyecto
-
-El sitio fue diseñado con una interfaz moderna en tono oscuro (*Dark Mode*), ofreciendo una navegación intuitiva y accesible. Permite explorar mis desarrollos destacados, revisar la documentación de mi código fuente y contactarme directamente.
-
-### ✨ Características Principales
-* **Diseño Responsive:** Adaptado para visualizarse correctamente en computadoras, tablets y dispositivos móviles.
-* **Soporte Multilingüe:** Opción para alternar la interfaz entre español e inglés.
-* **Catálogo de Proyectos:** Enlaces directos a los repositorios de GitHub con el código fuente de cada sistema desarrollado.
-* **Formulario de Contacto:** Integración directa para consultas y oportunidades laborales.
+🌐 **Live Demo:** [https://claudiopizarro12313.github.io](https://claudiopizarro12313.github.io)
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## 🚀 About the Project
+
+The website was designed with a modern dark-mode UI, providing an intuitive and accessible navigation experience. It allows visitors to explore my featured developments, review source code documentation, and contact me directly.
+
+### ✨ Key Features
+* **Responsive Design:** Fully optimized for seamless viewing across desktops, tablets, and mobile devices.
+* **Multilingual Support:** Dynamic language toggle between Spanish and English.
+* **Project Showcase:** Direct links to GitHub repositories featuring full source code for each application.
+* **Contact Form:** Integrated functionality for inquiries and career opportunities.
+
+---
+
+## 🛠️ Tech Stack
 
 * **Frontend:** HTML5, CSS3, JavaScript (ES6+)
-* **Estilos & Iconos:** FontAwesome / CSS Grid & Flexbox
-* **Despliegue & Hosting:** GitHub Pages
-* **Control de Versiones:** Git & GitHub
+* **Styling & Icons:** FontAwesome / CSS Grid & Flexbox
+* **Deployment & Hosting:** GitHub Pages
+* **Version Control:** Git & GitHub
 
 ---
 
-## 📂 Estructura del Repositorio
+## 📂 Repository Structure
 
 ```text
 claudiopizarro12313.github.io/
-├── assets/             # Imágenes, iconos y recursos multimedia
-├── css/                # Archivos de hojas de estilo (style.css)
-├── js/                 # Scripts y lógica interactiva (main.js)
-├── index.html          # Estructura principal del sitio web
-└── README.md           # Documentación del repositorio
+├── assets/             # Images, icons, and media resources
+├── css/                # Stylesheets (style.css)
+├── js/                 # Scripts and interactive logic (main.js)
+├── index.html          # Main HTML structure
+└── README.md           # Repository documentation
