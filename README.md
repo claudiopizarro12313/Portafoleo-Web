@@ -2,7 +2,7 @@
 
 Welcome to my personal web portfolio! This repository contains the source code for my professional website, designed to showcase my projects, technical skills, and background as a Systems Analyst and Programmer.
 
-🌐 **Live Demo:** [https://claudiopizarro12313.github.io](https://claudiopizarro12313.github.io)
+🌐 **Demostración en vivo:** [https://claudiopizarro12313.github.io](https://claudiopizarro12313.github.io?v=2)
 
 ---
 
